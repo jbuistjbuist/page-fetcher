@@ -1,0 +1,23 @@
+{
+  "name": "page_fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pageFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbuistjbuist/page-fetcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbuistjbuist/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/jbuistjbuist/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
